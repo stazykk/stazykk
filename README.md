@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**stazykk/stazykk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Img](https://media.discordapp.net/attachments/1076998151631810661/1078244948899545109/Readme.md_05C4FB1.png)
 
-Here are some ideas to get you started:
+## Seja bem-vindo(a) ao Meu Perfil!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sabia que se apertar a tecla "Alt" e a "F4" juntas, aparece um easteregg?
+
+- Fui eleita a desenvolvedora mais preguiçosa do Brasil! [Clique aqui para saber mais](https://youtu.be/dQw4w9WgXcQ?t=84)
+
+- Entre em contato comigo pelo Discord: `stazy#4400`
+## Aprendizados
+
+- Se algo pode dar errado, vai dar errado.
+- Se quiser desistir, desista.
+- Não faça amigos
+
