@@ -3,7 +3,7 @@
 
 ## Seja bem-vindo(a) ao Meu Perfil!
 
-Sabia que se apertar a tecla "Alt" e a "F4" juntas, aparece um easteregg?
+Sabia que se apertar a tecla "Alt" e a "F4" juntas aparece um easteregg?
 
 - Fui eleita a desenvolvedora mais preguiçosa do Brasil! [Clique aqui para saber mais](https://youtu.be/dQw4w9WgXcQ?t=84)
 
